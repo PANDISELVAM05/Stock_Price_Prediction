@@ -70,8 +70,6 @@ Stock-Price-Prediction
 
 Clone the repository:
 
-git clone https://github.com/yourusername/stock-price-prediction.git
-
 Move to project directory:
 
 cd stock-price-prediction
